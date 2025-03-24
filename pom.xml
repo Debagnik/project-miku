@@ -31,7 +31,7 @@
 		</developer>
 	</developers>
 	<scm>
-		<connection>scm:git:git://git@github.com:Debagnik/project-miku.git</connection>
+		<connection>scm:git:https://github.com/Debagnik/project-miku.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:Debagnik/project-miku.git</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/Debagnik/project-miku</url>
