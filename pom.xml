@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ミク</name>
 	<description>ミク (Miku) a Spring based ecomm-website targeted for Small-medium sized bakery</description>
-	<url/>
+	<url>https://github.com/Debagnik/project-miku</url>
 	<licenses>
 		<license>
 			<name>MIT License</name>
@@ -25,7 +25,7 @@
 		<developer>
 			<id>Debagnik</id>
 			<name>Debagnik Kar</name>
-			<email>info@debagnik.in</email> <!-- Update with actual email -->
+			<email>info@debagnik.in</email>
 			<organization>Debagnik.in</organization>
 			<organizationUrl>https://debagnik.in</organizationUrl>
 		</developer>
