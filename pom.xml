@@ -21,12 +21,15 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
-	<developer>
+	<developers>
+		<developer>
 			<id>Debagnik</id>
 			<name>Debagnik Kar</name>
 			<email>info@debagnik.in</email>
 			<organization>Debagnik.in</organization>
 			<organizationUrl>https://debagnik.in</organizationUrl>
+		</developer>
+	</developers>
 	<scm>
 		<connection>scm:git:https://github.com/Debagnik/project-miku.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com:Debagnik/project-miku.git</developerConnection>
